@@ -1,0 +1,31 @@
+.intro{
+  background-image: url("ezgif.com-gif-maker.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.temp{
+  background-image: url("download.jpeg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1{
+  position: absolute;
+  margin-left: 5%;
+  margin-top: 13%;
+  font-size: 300%;
+  color:	#fffaf0;
+}
+.info{
+  z-index: 2;
+  position:absolute;
+  margin-top: 20%;
+  background-color: #fffff0;
+  font-size: 200%;
+  background-color:#e6e6fa;
+}
